@@ -1,0 +1,16 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "incremental-headers": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": {
+      "no-exclamation-question-mark": {
+        "allowFullWidthQuestion": true
+      },
+    },
+    "preset-japanese": true,
+    "preset-jtf-style": true
+  }
+}
