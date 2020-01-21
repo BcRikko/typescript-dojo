@@ -1,9 +1,8 @@
 TypeScriptとは
 ====
 
-* JavaScriptのすげーやつ。  
-  （スーパーセットという）
-* 型の表現力がすげー。
+* JavaScriptのすげーやつ（スーパーセットという）
+* 型の表現力がすげー
 
 
 ……の前に、JavaScriptのツラミは？
@@ -56,5 +55,5 @@ console.log(obj.hey.yo)
 
 ### まとめ
 
-* JavaScriptは**実行時**にエラーになる
-* TypeScriptは**実行前**にエラーになる（コンパイラが教えてくれる）
+* JavaScriptは**実行時**にエラー
+* TypeScriptは**実行前**にエラー（コンパイラが教えてくれる）
