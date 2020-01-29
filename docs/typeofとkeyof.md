@@ -145,6 +145,8 @@ const myElement = new MyElement('a')
 
 ### myElement.elをより詳細で適切な型にする
 
+[TypeScript Playground](https://www.typescriptlang.org/play/#code/MYGwhgzhAECyCeBREBTAtigdgFwDwBUwBzAOTA2hQA9ssATGAaxXgHsAzaACX1gBlk6LNkKlyKWGAAOAPmgBvAFDRKIAFzdeA1BhyiyGSVIDa+8QF1Fy6MFaYI2AE4BXYNlaOAFNmIGUGswwASgVrFWwACwBLCAA6FBBoAF5oOlZgZ11sWOBHFDBaQSzvX3Eg6wBfRSrFW3tsaDQkHWFk6EwUAHc4ZqEcTwByMAHygHpRxt6s+MSUnn4AQUxgCI8i4SA)
+
 keyofとジェネリクスを使って、HTMLElementではなくHTMLAnchorElementやHTMLDivElementを取得する。
 
 ```ts
